@@ -16,12 +16,15 @@ h2
 {
     margin: 0;
     padding: 0;
-    font-color: #FFFFFF;
 }
 
 h1, h3 {
     margin: 0;
     padding: 0;
+}
+
+ol {
+   font-color: #FFFFFF;
 }
 
 /* Header */
@@ -41,10 +44,10 @@ h1, h3 {
     flex-direction: row-reverse;
     font-weight: 500;
     padding: 20px 25px;
+    font-color: #FFFFFF;
 }
 
 .navbar {
-   font-color: #FFFFFF;
     margin: 0;
     padding: 0;
 }
