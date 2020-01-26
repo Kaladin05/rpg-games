@@ -24,7 +24,6 @@ h1, h2, h3 {
     width: 100vw;
     height: 100vh;
     max-width: 100%;
-    font-color: #FFFFFF;
 }
 
 .header-container {
@@ -43,7 +42,7 @@ h1, h2, h3 {
 }
 
 .header-container h2 {
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .header-container ol {
