@@ -41,15 +41,10 @@ h1, h2, h3 {
     padding: 0;
 }
 
-.header-container h2 {
-    color: #FFFFFF;
-}
-
 .header-container ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    color: #FFFFFF
 }
 
 .header-container li {
