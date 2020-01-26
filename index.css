@@ -12,7 +12,14 @@ body {
     color: var(--dark);
 }
 
-h1, h2, h3 {
+h2
+{
+    margin: 0;
+    padding: 0;
+    font-color: #FFFFFF;
+}
+
+h1, h3 {
     margin: 0;
     padding: 0;
 }
@@ -37,6 +44,7 @@ h1, h2, h3 {
 }
 
 .navbar {
+   font-color: #FFFFFF;
     margin: 0;
     padding: 0;
 }
