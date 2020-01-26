@@ -17,10 +17,6 @@ h1, h2, h3 {
     padding: 0;
 }
 
-ol {
-   font-color: #FFFFFF;
-}
-
 /* Header */
 .main-header {
     background: url('dnd-background.jpg') center;
@@ -38,7 +34,6 @@ ol {
     flex-direction: row-reverse;
     font-weight: 500;
     padding: 20px 25px;
-    font-color: #F2FFFF;
 }
 
 .navbar {
