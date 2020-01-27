@@ -27,7 +27,7 @@ h1, h2, h3 {
 }
 
 .header-container {
-    backgrounf-color: #000000;
+    background-color: #000000;
     font-size: 2em;
     display: flex;
     align-items: center;
