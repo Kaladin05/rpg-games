@@ -27,17 +27,19 @@ h1, h2, h3 {
 }
 
 .header-container {
-    font-size: 1.3em;
+    font-size: 2em;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-direction: row-reverse;
     font-weight: 500;
     padding: 20px 25px;
+    color: #ffffff;
+
 }
 
 .header-container h2 {
-    color: #000000;
+    color: #ffffff;
 }
 
 .navbar {
