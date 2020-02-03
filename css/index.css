@@ -24,7 +24,7 @@ h1, h2, h3 {
 
 /* Header */
 .main-header {
-    background: url('dnd-background.jpg') center;
+    background: url('img/dnd-background.jpg') center;
     background-size: cover;
     width: 100vw;
     height: 100vh;
